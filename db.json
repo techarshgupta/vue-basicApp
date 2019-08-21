@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Francis",
+      "lastname": "Jones"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "lastname": "Chapman"
+    },
+    {
+      "id": 3,
+      "name": "Millie",
+      "lastname": "Robson"
+    },
+    {
+      "id": 4,
+      "name": "Caroline",
+      "lastname": "Outburn"
+    },
+    {
+      "id": 5,
+      "name": "Mark",
+      "lastname": "Blacktop"
+    },
+    {
+      "name": "Morson",
+      "lastname": "Prasy",
+      "id": 6
+    },
+    {
+      "name": "dfggfhzfgdh",
+      "lastname": "dhsfgzzhfsth",
+      "id": 7
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Ford"
+    },
+    {
+      "id": 2,
+      "brand": "BMW"
+    },
+    {
+      "id": 3,
+      "brand": "Renault"
+    },
+    {
+      "id": 4,
+      "brand": "Nissan"
+    }
+  ]
+}
